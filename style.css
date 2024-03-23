@@ -1,0 +1,98 @@
+h1{
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+
+body{
+    font-family: "Amiri Quran", serif;
+    color: black;
+    text-align: center;
+    background-image: url('bg-image.avif');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+#div_heading{
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+
+.btn_properties{
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    font-size: 25px;
+    width: 450px;
+    height: 30px;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+#btn_living_room:hover{
+    box-shadow: 7.5px 7.5px rgb(64, 188, 255);
+    transition-duration: 0.25s;
+}
+
+#btn_kitchen:hover{
+    box-shadow: 7.5px 7.5px rgb(64, 188, 255);
+    transition-duration: 0.25s;
+}
+
+#button_desk:hover{
+    box-shadow: 7.5px 7.5px rgb(64, 188, 255);
+    transition-duration: 0.25s;
+}
+
+#btn_bottles:hover{
+    box-shadow: 7.5px 7.5px rgb(64, 188, 255);
+    transition-duration: 0.25s;
+}
+
+#btn_fruit_basket:hover{
+    box-shadow: 7.5px 7.5px rgb(64, 188, 255);
+    transition-duration: 0.25s;
+}
+
+#anchor_1{
+    color: black;
+}
+
+#anchor_1:hover{
+    text-decoration: none;
+}
+
+#anchor_2{
+    color: black;
+}
+
+#anchor_2:hover{
+    text-decoration: none;
+}
+
+#anchor_3{
+    color: black;
+}
+
+#anchor_3:hover{
+    text-decoration: none;
+}
+
+#anchor_4{
+    color: black;
+}
+
+#anchor_4:hover{
+    text-decoration: none;
+}
+
+#anchor_5{
+    color: black;
+}
+
+#anchor_5:hover{
+    text-decoration: none;
+}
